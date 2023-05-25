@@ -10,7 +10,7 @@
        are two equal highest grades, it retruns any of them.
 
     3. Number of failing grades: Gets a list of grades, and returns how many failing 
-        grades there are. A grade is a failing grade if it 55 or below.
+        grades there are in the list. A grade is a failing grade if it 55 or below.
 
     4. Perfect: Gets a list of grades, and returns True if there is at least one 
         perfect (100) grade, and False otherwise.

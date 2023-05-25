@@ -1,8 +1,6 @@
 def average_grade(grades_list: list) -> float:
     """
     Gets a list of grades, and return the average grade.
-    :param grades_list: [20, 30, ...]
-    :return average grade (float)
     """
     total = 0
     num_grades = len(grades_list)
